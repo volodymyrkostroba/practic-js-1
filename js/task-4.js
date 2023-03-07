@@ -6,7 +6,7 @@ const refs = {
 
 }
 
-console.log(refs);
+
 
 
 refs.input.addEventListener('blur', function (e) {
